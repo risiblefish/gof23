@@ -19,6 +19,7 @@
         <module>iterator</module>
         <module>visitor</module>
         <module>cor</module>
+        <module>builder</module>
     </modules>
 
     <build>
