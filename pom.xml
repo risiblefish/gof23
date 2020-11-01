@@ -20,6 +20,8 @@
         <module>visitor</module>
         <module>cor</module>
         <module>builder</module>
+        <module>adapter</module>
+        <module>bridge</module>
     </modules>
 
     <build>
