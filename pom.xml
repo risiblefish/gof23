@@ -22,6 +22,7 @@
         <module>builder</module>
         <module>adapter</module>
         <module>bridge</module>
+        <module>command</module>
     </modules>
 
     <build>
