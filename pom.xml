@@ -23,6 +23,7 @@
         <module>adapter</module>
         <module>bridge</module>
         <module>command</module>
+        <module>prototype</module>
     </modules>
 
     <build>
