@@ -25,6 +25,7 @@
         <module>command</module>
         <module>prototype</module>
         <module>template-method</module>
+        <module>state</module>
     </modules>
 
     <build>
